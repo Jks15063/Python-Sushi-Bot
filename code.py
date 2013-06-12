@@ -1,7 +1,7 @@
 """
 Assumes screen resolution of 1366x 768,
 using chrome browser without bookmarks tool bar enabled.
-Running on ubuntu
+Running on linux
 At top of screen, press down arrow 4 times to center game view.
 """
 import subprocess
