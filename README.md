@@ -1,9 +1,8 @@
-Python-Sushi-Bot
+Sushi-Go-Round-Bot
 ================
 
-Python bot that will play sushi go round.
-'Ported' to linux following the tutorial at:
-http://active.tutsplus.com/tutorials/workflow/how-to-build-a-python-bot-that-can-play-web-games/
+Python bot that will play [sushi go round.](http://www.miniclip.com/games/sushi-go-round/en/)
+'Ported' to linux following [this tutorial.](http://active.tutsplus.com/tutorials/workflow/how-to-build-a-python-bot-that-can-play-web-games/)
 
 Instructions:
 
