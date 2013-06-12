@@ -6,12 +6,10 @@ At top of screen, press down arrow 4 times to center game view.
 """
 import subprocess
 import pyscreenshot as ImageGrab
-#import Image
 import ImageOps
 import os
 import time
 from Xlib import display
-#from numpy import *
 
 #---------------------------
 #Global vars
